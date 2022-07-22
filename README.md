@@ -1,6 +1,4 @@
-# Project Title
-
-Grime Dice
+# Grime Dice Comparer
 
 ## Description
 
